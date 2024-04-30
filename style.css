@@ -158,12 +158,13 @@ aside h1 {
 footer {
     background-image: linear-gradient(to right, rgb(168, 115, 15),rgb(187, 124, 8),rgb(141, 93, 4));
     border-top: 4px solid white;
+    width: 100%;
 
     text-align: center;
-    padding: 40px 0px 40px  0px;
+    padding: 40px 0px 40px  16px;
 
     
-    margin: 50px -7.5px -20px -8px;
+    margin: 50px -8.5px -20px -8px;
 }
 
 footer p {
